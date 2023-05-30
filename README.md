@@ -1,4 +1,4 @@
-<!-- ## Hello World!, I am {Davi Hasson Castro}! 👋 -->
+<!-- ## Hello World! I am {Davi Hasson Castro}! 👋 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6FA4FC&width=350&height=50&lines=Hello+World!,+I+am+Davi+👋+...;%f0%9f%92%bb)](https://git.io/typing-svg)
 
