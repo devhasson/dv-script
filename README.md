@@ -14,8 +14,10 @@
 ## 🚀 My Skills
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code>
@@ -26,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/dv-script">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dv-script&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dv-script&show_icons=true&theme=dracula"/>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-script&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
