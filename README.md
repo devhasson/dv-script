@@ -5,8 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Davi's Computer">
 
 - 📚 Studying
-- 👨🏼‍💻 Fullstack Developer 
-- 💼 Working at Livemode ...
+- 👨🏼‍💻 Software Engineer
 - 🧑 I am 23 years old ...
 - 🌎 Rio de Janeiro - RJ, Brazil ...
 
@@ -26,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/dv-script">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dv-script&show_icons=true&theme=dracula"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-script&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=devhasson&show_icons=true&theme=dracula"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhasson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -35,6 +34,6 @@
 <div align="center"> 
   <a href="https://instagram.com/davvi.castro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:davihasson@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davi-hasson-castro-3968751ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/davvicastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
